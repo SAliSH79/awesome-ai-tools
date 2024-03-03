@@ -2,7 +2,7 @@
 
 > A curated list of Artificial Intelligence Top Tools
 >
-> Feel free to contribute
+> Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
 
 Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
 
@@ -35,23 +35,25 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ### Chatbots
 
-- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
-- [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
-- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
-- [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
-- [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
-- [AICamp](https://aicamp.so/) - ChatGPT for Teams
+- [ChatGPT](https://chat.openai.com/chat) - *[reviews](https://altern.ai/product/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+- [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
+- [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
+- [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://altern.ai/product/chatpdf)* - Chat with any PDF.
+- [ChatSonic](https://writesonic.com/chat) - *[reviews](https://altern.ai/product/chatsonic)* - An AI-powered assistant that enables text and image creation.
+- [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+- [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+- [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
 
 ### Search engines
 
+- [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
+- [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 
 ### Local search engines
 
@@ -80,6 +82,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
+- [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 
 ### ChatGPT extensions
 
@@ -109,6 +112,9 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
+- [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
+- [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+- [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 
 
 ### Meeting assistants
@@ -258,6 +264,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Audio
 
 ## Phone Calls
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 
 ### Speech
@@ -299,6 +306,10 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
+- [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+- [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+- [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
+- [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
 
 ## Learning resources
 
